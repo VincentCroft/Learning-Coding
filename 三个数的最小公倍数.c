@@ -12,5 +12,5 @@ int main()
         else
             k++;
     }
-    printf("两个数的最小公倍数为:%d\n",k);
+    printf("三个数的最小公倍数为:%d\n",k);
 }
